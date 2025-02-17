@@ -1,5 +1,11 @@
-li{
-    display: inline-block;
-    color: coral;
-    background-color: blanchedalmond;
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color: black;
+    font-family: cursive;
+    color: white;
+    font-size: medium;
 }
